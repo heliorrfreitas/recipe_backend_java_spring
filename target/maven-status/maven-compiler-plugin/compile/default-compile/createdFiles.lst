@@ -1,0 +1,9 @@
+com/heliorui/spring/dao/RecipeDAOImplementation.class
+com/heliorui/spring/controller/RecipeController.class
+com/heliorui/spring/service/RecipeServiceImplementation.class
+com/heliorui/spring/configuration/AppConfig.class
+com/heliorui/spring/configuration/WebConfig.class
+com/heliorui/spring/dao/RecipeDAO.class
+com/heliorui/spring/model/Recipe.class
+com/heliorui/spring/configuration/WebAppInitializer.class
+com/heliorui/spring/service/RecipeService.class
